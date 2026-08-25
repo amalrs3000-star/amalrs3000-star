@@ -1,4 +1,4 @@
-:::writing{variant="document" title="Amal.RS — GitHub Profile README" id="74126"}
+
 # 👋 Hi, I'm Amal.RS
 
 ### 🎓 B.Tech Artificial Intelligence & Data Science Student | Aspiring Data Analyst

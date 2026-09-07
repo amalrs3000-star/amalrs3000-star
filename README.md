@@ -41,6 +41,7 @@ I enjoy working with data, finding meaningful insights, creating interactive das
 ---
 
 ## 🚀 Featured Projects
+
 ### 🍫 Nassau Candy Distributor Profitability Analysis
 
 An end-to-end data analytics project analyzing product profitability, gross margins, costs, division performance, and profit concentration using Python, Pandas, Plotly, and Streamlit.
@@ -49,7 +50,7 @@ An end-to-end data analytics project analyzing product profitability, gross marg
 🚀 **[Live Interactive Dashboard](https://a7evzg2y5qlnkyci9b2hws.streamlit.app/)**
 
 **Tools:** Python • Pandas • Plotly • Streamlit • Jupyter Notebook
-
+---
 ### 📦 Supply Chain Analysis — Python
 
 An end-to-end Supply Chain Data Analysis project using **Python, Pandas, Exploratory Data Analysis, and Machine Learning**.

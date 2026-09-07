@@ -49,7 +49,7 @@ An end-to-end data analytics project analyzing product profitability, gross marg
 🔗 **[View GitHub Repository](https://github.com/amalrs3000-star/Nassau-Candy-Profitability-Analysis)** 
 🚀 **[Live Interactive Dashboard](https://a7evzg2y5qlnkyci9b2hws.streamlit.app/)**
 
-**Tools:** Python • Pandas • Plotly • Streamlit • Jupyter Notebook
+Tools: Python • Pandas • Plotly • Streamlit • Jupyter Notebook
 ---
 ### 📦 Supply Chain Analysis — Python
 
